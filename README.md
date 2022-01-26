@@ -29,4 +29,6 @@ Les bases du deep learning en tensorflow en Python
 
 ## Fonctionnement de Tensorflow
 
-![image 12](images/13.png)
+![image 13](images/13.png)
+
+![image 14](images/14.png)
