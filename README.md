@@ -12,3 +12,7 @@ Les bases du deep learning en tensorflow en Python
 ![image 2](images/4.png)
 
 ![image 2](images/5.png)
+
+![image 2](images/6.png)
+
+![image 2](images/7.png)
