@@ -37,3 +37,6 @@ Les bases du deep learning en tensorflow en Python
 
 ## Dérivée 
 ![image](images/derivatives_answer.jpg)
+
+## Lien utils
+[https://www.mathsisfun.com/algebra/matrix-introduction.html](https://www.mathsisfun.com/algebra/matrix-introduction.html)
