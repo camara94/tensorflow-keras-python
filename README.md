@@ -41,3 +41,4 @@ Les bases du deep learning en tensorflow en Python
 ## Lien utils
 1. [https://www.mathsisfun.com/algebra/matrix-introduction.html](https://www.mathsisfun.com/algebra/matrix-introduction.html)
 2. [https://github.com/codebasics](https://github.com/codebasics)
+3. [https://towardsdatascience.com/why-not-mse-as-a-loss-function-for-logistic-regression-589816b5e03c](https://towardsdatascience.com/why-not-mse-as-a-loss-function-for-logistic-regression-589816b5e03c)
